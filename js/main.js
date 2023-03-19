@@ -6,3 +6,6 @@ function getRandomNumber (a, b) {
     }
     return arr.sort()[0][1];
  }
+
+ getRandomNumber (-5, 20)
+ 
